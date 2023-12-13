@@ -1,0 +1,14 @@
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\bin\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.exe
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\bin\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.deps.json
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\bin\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.runtimeconfig.json
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\bin\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.dll
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\bin\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.pdb
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\obj\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\obj\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.AssemblyInfoInputs.cache
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\obj\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.AssemblyInfo.cs
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\obj\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.csproj.CoreCompileInputs.cache
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\obj\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.dll
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\obj\Debug\net8.0\refint\QuilumbaquinJairo_ConjuntaP1.dll
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\obj\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.pdb
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\obj\Debug\net8.0\QuilumbaquinJairo_ConjuntaP1.genruntimeconfig.cache
+A:\Documentos\Cuarto Semestre\ProgramacionWeb\Conjunta\PrimerParcial\QuilumbaquinJairo_ConjuntaP1\obj\Debug\net8.0\ref\QuilumbaquinJairo_ConjuntaP1.dll
